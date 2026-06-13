@@ -1,6 +1,6 @@
 # CourierRush 2D
 
-Completed CourierRush game for the Module 4 built in Unity. In this module, you will create a complete top-down driving game with car movement, an infinite procedurally generated road network, a navigation system, and a score counter.
+Completed CourierRush game for the Module 4, built in Unity. In this module, you will create a complete top-down driving game with car movement, an infinite procedurally generated road network, a navigation system, and a score counter.
 
 ---
 
